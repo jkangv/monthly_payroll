@@ -1,0 +1,13 @@
+As an employee I want to be able to view payroll of everyone in the company so that I can see their gross salary and net pay
+
+1) Once I execute the program, I should get each person's gross salary, net pay, and any other source of income that applies to them.
+2) If I add more employees to my csv file, the program should still output the new person.
+
+As a developer I want to create a csv file so that I can obtain salary data from it
+
+1) The csv file should contain the people's salaries and other data that applies to them.
+
+As a developer I want to create five classes necessary to make this program and put them in different files so that I can make my program easier to execute well
+
+1) The classes are Owner, Employee, COmmisinoSalesPerson, QuotaSalesPerson, and Sale that should be used for this program. 
+2) I should use require_relative in order to use these clasees from different files.

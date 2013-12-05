@@ -2,8 +2,8 @@ require 'csv'
 require_relative 'employee'
 require_relative 'sales'
 require_relative 'owner'
-require_relative 'quotasalesperson'
-require_relative 'commissionsalesperson'
+require_relative 'quota_sales_person'
+require_relative 'commission_sales_person'
 
 employees = []
 Employee::EMPLOYEES.each do |array|
